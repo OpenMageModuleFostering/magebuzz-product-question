@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/magebuzz-product-question",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "Magento Product Questions",
+    "authors": [
+    {
+        "name": "Magebuzz",
+        "email": "magebuzz@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
