@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/magebuzz-product-question",
+    "name": "openmage-module-fostering\/magebuzz-product-question",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Magento Product Questions",
     "authors": [
